@@ -1,0 +1,16 @@
+[
+{
+  "modid": "theextensionsmod",
+  "name": "The Extensions Mod",
+  "description": "THE mod for extending YOUR minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["BlyackDaBozz"],
+  "credits": "Me and my mind.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
