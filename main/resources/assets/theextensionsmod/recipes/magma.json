@@ -1,0 +1,20 @@
+{
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+               "NNN",
+               "NZN",
+               "NNN"
+        ],
+        "key": {
+            "N": {
+                    "item": "minecraft:lava_bucket"
+            },
+            "Z": {
+                    "item": "minecraft:obsidian"
+            }
+        },
+        "result": {
+                "item": "minecraft:magma",
+                "data": 0
+        }
+}
